@@ -66,7 +66,7 @@ warnings.filterwarnings("ignore")
 #  CONFIG  — NSE scrape settings
 # ═══════════════════════════════════════════════════════════════
 
-TRADED_VALUE_MIN_CR = 10          # filter: keep stocks with value > this
+TRADED_VALUE_MIN_CR = 5          # filter: keep stocks with value > this
 
 NSE_HOME  = "https://www.nseindia.com"
 NSE_PAGE  = "https://www.nseindia.com/market-data/stocks-traded"
