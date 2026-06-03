@@ -100,7 +100,7 @@ try {
 
 EXCHANGE_SFX    = ".NS"
 OUTPUT_DIR      = "YF_D_TO_10Cr"
-PERIOD_DAYS     = 365
+PERIOD_DAYS     = 300
 
 EMA_PERIOD      = 9
 MACD_FAST       = 12
